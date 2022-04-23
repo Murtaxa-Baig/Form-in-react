@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: aqua;
+   
+}
+ #img{
+     margin-top: 40px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+ }
+    
+#div{
+  
+  text-align: center;
+}
+.h1{
+    padding-top: 42px;
+
+}
+.pa{
+    padding-top: 10px;
+}
+#comment{
+    margin-top: 10px;
+   
+}
+.input{
+    background-color:white;
+    margin-right: 4px;
+}
+#input{
+    margin-left: -24.2%;
+}
+#button{
+    margin-left: -32%;
+    margin-top: 20px;
+    background-color: green;
+    height: 30px;
+    width: 70px;
+}
